@@ -1,0 +1,7 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://shamshidin:3203157@cluster0.sls480k.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "sekret-key-cloud",
+    "filePath": "C:\\Users\\SHamsiddin\\Desktop\\Praktiki\\UlbTv\\MERN STACK\\02\\server\\files",
+    "staticPath": "C:\\Users\\SHamsiddin\\Desktop\\Praktiki\\UlbTv\\MERN STACK\\02\\server\\static"
+}
